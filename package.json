@@ -1,4 +1,6 @@
 {
+  "name": "@node-lambdas/random-name",
+  "version": "0.0.0",
   "dependencies": {
     "@scaleway/random-name": "^4.0.0"
   }
