@@ -1,3 +1,3 @@
-# fn-template
+# random-name
 
-Template for new functions
+Cloud function for [random-name](https://www.npmjs.com/package/@scaleway/random-name) generator.
